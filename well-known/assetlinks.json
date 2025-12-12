@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.red360",
+      "sha256_cert_fingerprints": [
+        "94:42:5B:09:A1:5A:41:74:67:6A:6A:6B:7F:93:C0:A2:60:E8:AF:E9:64:24:64:65:08:4F:07:71:6D:80:A2:F7"
+      ]
+    }
+  }
+]
